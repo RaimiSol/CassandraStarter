@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: edu.ucar:unidataCommon:4.2.20:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/edu.ucar/unidataCommon/jars/unidataCommon-4.2.20.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/edu.ucar/unidataCommon/srcs/unidataCommon-4.2.20-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
